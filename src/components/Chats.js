@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import EmojiPicker from "emoji-Picker-react"
+import EmojiPicker from "emoji-picker-react"
 import '../styles/Chats.css'
 import styled from 'styled-components';
 import { SearchContainer, SearchInput } from './LeftBar';
