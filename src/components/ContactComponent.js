@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-// import { contactList } from '../demoData';
+import { contactList } from '../demoData';
 import { useState } from 'react';
 const ContactItem = styled.div`
   display: flex;
